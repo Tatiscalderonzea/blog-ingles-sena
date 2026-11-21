@@ -1,0 +1,33 @@
+BLOG SENA - GA4-240202501-AA1-EV03
+Tatiana Andrea Calderon Zea - Ficha 3466322
+
+QUE CAMBIO EN ESTA VERSION
+- Las 7 entradas fueron reescritas en primera persona, con frases mas cortas
+  y variadas, ejemplos concretos y opiniones propias. Ya no suena a plantilla.
+- Diseno nuevo: blog personal (fecha, etiquetas, bloque "sobre mi"), no formato
+  corporativo.
+- Se quitaron los avisos de "imagen ilustrativa" en las entradas 1 a 5.
+- Se enlazaron todas las evidencias que estaban en la carpeta.
+
+ANTES DE ENTREGAR
+1. REEMPLAZA LAS FOTOS de las entradas 1 a 5 por fotos tuyas:
+     images/post-01.jpg  -> tu casa / estudiando / familia
+     images/post-02.jpg  -> tu escritorio o puesto de trabajo
+     images/post-03.jpg  -> tu cuaderno de vocabulario o el celular con las apps
+     images/post-04.jpg  -> foto tuya en Parque Arvi o en el metrocable
+     images/post-05.jpg  -> opcional
+   Usa el mismo nombre de archivo y listo. Las imagenes 06 y 07 pueden quedarse:
+   estan marcadas como ilustracion.
+2. REVISA LOS DATOS PERSONALES. Hay detalles que debes confirmar o cambiar por
+   los tuyos reales: el juego de las cinco palabras en la cocina (entrada 1),
+   el mensaje falso del chat familiar (entrada 6) y el correo falso del banco
+   (entrada 7). Si no te paso asi, cambialo por algo que si te haya pasado:
+   ese es el detalle que hace que el texto suene tuyo.
+3. PRONUNCIACION (30% de la nota): los criterios 3 y 4 se evaluan con tu voz.
+   Graba una lectura corta de las entradas 6 y 7 y agregala debajo de cada una.
+4. PUBLICA LA CARPETA COMPLETA (no solo index.html) en Netlify Drop
+   (netlify.com/drop) o GitHub Pages, y comprueba que el enlace abra sin
+   contrasena y que los dos audios suenen.
+5. ENTREGA LA URL por la plataforma SENA dentro del plazo.
+
+El ZIP no es una URL publica y no equivale a publicar el blog.
